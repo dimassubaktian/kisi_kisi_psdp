@@ -61,6 +61,16 @@ Kisi – Kisi  :
       - ERP sering terlihat terlalu sulit untuk beradaptasi dengan alur kerja dan proses bisni tertentu dalam beberapa organisasi
 
 2. Apa Batasan dan perbedaan ERP dengan Tradisional, berikan contoh
+	ERP tradisional umumnya ditempatkan di server perusahaan sendiri dan dikelola oleh staf TI, atau konsultan luar. 
+	Mereka memerlukan pembaruan rutin dan investasi pada perangkat keras yang diperlukan untuk menjalankannya. 
+	Solusi ERP tradisional datang dalam dua bentuk: di tempat dan di-host. Dalam kasus yang pertama, suatu bisnis 
+	membeli lisensi perangkat lunak untuk sistem yang dipilih dan menyebarkan produk ke pusat data. Dengan demikian, 
+	organisasi menyerap biaya servis dan pemeliharaan infrastruktur internal dan memperoleh peralatan tambahan apa pun.
+	Cloud ERP di sisi lain, ditempatkan di cloud (di dalam pusat data, di server yang dimiliki oleh orang lain, biasanya vendor ERP) 
+	dan diakses oleh (pengguna) melalui koneksi Internet. Dengan ERP modern, tidak ada perangkat keras untuk dibeli dan pembaruan 
+	umumnya dilakukan secara otomatis untuk Anda oleh vendor ERP. ERP modern menggunakan model Perangkat Lunak sebagai Layanan (SaaS), 
+	di mana penyedia memberikan aplikasi kepada pelanggan melalui Web. Ini juga memberikan solusi yang menghadirkan kemampuan dengan 
+	kemudahan penggunaan yang lebih besar yang semakin meningkatkan manfaat dan ROI perusahaan.
 
 3. Jelaskan keterkaitan ERP dengan Sistem Informasi serta teknologi.
       untuk hubungan erp dan system informasi  adalah 
