@@ -1,0 +1,73 @@
+
+Kisi – Kisi  :
+
+1. Jelaskan ruang lingkup Perencanaan Sumber daya Perusahaan (ERP)
+      Ruang Lingkup ERP
+      1.Pengertian
+      - ERP adalah sebuah sistem informasi perusahaan yang dirancang untuk mengkoordinasikan semua sumber daya,informasi dan aktifitas yang diperlukan untuk proses bisnis lengkap.
+      - Sistem ERP didasarkan pada database pada umumnya dan rancangan perangkat lunak modular.
+
+      2.Tujuan dan Peranannya Dalam Organisasi
+      - Tujuan sistem ERP adalah untuk mengkoordinasikan bisnis organisasi secara keseluruhan.
+      - ERP merupakan software yang ada dalam organisasi/perusahaan untuk:
+      – Otomatisasi dan integrasi banyak proses bisnis
+      – Membagi database yang umum dan praktek bisnis melalui enterprise
+      – Menghasilkan informasi yang real-time
+      – Memungkinkan perpaduan proses transaksi dan kegiatan perencanaan.
+
+      3.Evolusi Sistem ERP
+      - Tahapan Evolusi ERP
+      - Tahap I : Material Requirement Planning (MRP)
+      Merupakan cikal bakal dari ERP, dengan konsep perencanaan kebutuhan
+      material
+      - Tahap II: Close-Loop MRP
+      Merupakan sederetan fungsi dan tidak hanya terbatas pada MRP, terdiri
+      atas alat bantu penyelesaian masalah prioritas dan adanya rencana yang
+      dapat diubah atau diganti jika diperlukan
+      - Tahap III: Manufakturing Resource Planning (MRP II)
+      Merupakan pengembangan dari close-loop MRP yang ditambahkan 3
+      elemen yaitu: perencanaan penjualan dan operasi, antarmuka keuangan dan
+      simulasi analisis dari kebutuhan yang diperlukan
+      - Tahap IV: Enterprise Resource Planning
+      Merupakan perluasan dari MRP II yaitu perluasan pada beberapa proses
+      bisnis diantaranya integrasi keuangan, rantai pasok dan meliputi lintas
+      batas fungsi organisasi dan juga perusahaan dengan dilakukan secara
+      mudah
+      - Tahap V: Extended ERP (ERP II)
+      Merupakan perkembangan dari ERP yang diluncurkan tahun 2000, serta
+      lebih konflek dari ERP sebelumnya
+
+      4. Modul ERP
+      - Manufacturing
+      - Supply Chain Management
+      - Financials
+      - Projects
+      - Human Resources
+      - Customer Relationship Management
+      - Data warehouse
+      - Access Control
+      - Customization
+
+      5.Kelebihan ERP
+      - Integrasi antara area fungsional yang berbeda untuk meyakinkan komunikasi, produktifitas dan efisiensi yang tepat.
+      - Rancangan Perekayasaan
+      - Pelacakan pemesanan dari penerimaan sampai fulfillment
+      - Mengatur saling ketergantungan dari proses penagihan material yang kompleks
+
+      6.Kelemahan ERP
+      - Terbatasnya kustomisasi dari perangkat lunak ERP
+      - Sistem ERP sangat mahal
+      - Perekayasaan kembali proses bisnis untuk menyesuaikan dengan standar industri yang telah dideskripsikan oleh sistem ERP dapat menyebabkan hilangnya keuntungan kompetitif
+      - ERP sering terlihat terlalu sulit untuk beradaptasi dengan alur kerja dan proses bisni tertentu dalam beberapa organisasi
+
+2. 
+
+6. Jelaskan Modul ERP dibawah ini :
+    Operasi
+      Modul Operasi biasanya menangani proses- proses operasional dasar pada ERP seperti pada Dashboard, web portal, email, manufaktur, distribusi, produksi, pemasaran, dan lain- lain.
+
+    Finansial dan Akuntansi
+      Modul finansial dan akuntansi menangani bagian finansial dan akuntansi sebuah perusahaan terkait dengan keuangan. Misalnya menangani pembayaran hutang, pajak, kredit, pembuatan laporan keuangan sampai pada pembuatan anggaran belanja perusahaan.
+
+    Sumber Daya Manusia
+      Modul SDM menangani bagian manajemen sumber daya manusia atau Human Resource Management (HRM). Misalnya pembuatan jadwal kerja, perekrutan pegawai, perhitungan gaji dan bonus, dan lain- lain.
