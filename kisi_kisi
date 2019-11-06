@@ -70,7 +70,23 @@ Kisi – Kisi  :
       Dengan menerapkan system informasi  berupa erp dalam struktur aktifitas 
       perusahaan maka diharapkan dapat mempermudah, memperlancar, dan meningkatkan efisiensi daripada tugas-tugas perusahaan.
 
+4. Ada di file repository
 
+5.    pada lapisan pengguna tidak terdapat perbedaan yang signifikan antara oltp dan olap karna dalam 
+            menggunakan sebuah system pengguna tingkat akhir tidak harus mengetahui apa yang terjadi 
+            di latar belakang system, namun perbadaan perbeadaan akan dirasakan pengguna adalah kecepatan 
+            pemrosesan suatu transaksi atau perintah yang diberikan oleh pengguna
+      Pada lapisan aplikasi terdapat perbedaan Bahasa pemrograman dan algoritma yang digunakan oleh developer 
+            untuk mengembangkan aplikasi tersebut karena data yang diolah dan yang akan diolah disimpan dengan 
+            model berbeda pada basis data. Pada lapisan ini pengembang aplikasi bisa menjalankan Analisa pada 
+            basis data untuk mendapatkan informasi yang bisa berguna bagi perusahaan
+	Pada lapisan basis data perbedaan paling signifikan terdapat pada Teknik penyimpanan data yang digunakan 
+            dimana olap menggunakan data warehouse(Gudang data) yang bersifat dimensional, sedangkan oltp menggunakan 
+            model basis data operasional untuk menyimpan data, perbedaan lainnya adalah basis data yang digunakan olap 
+            bersifat statis atau hanya bisa ditambah dengan demikian data lama akan terus tersimpan yang mengakibatkan 
+            penggunaan ruang penyimpanan yang besar, sedankan oltp menggunakan penyimpanan yang bersifat dinamis pada basis 
+            data dimana setiap data baru akan menimpa data lama yang ada pada basis data yang mengakibatkan basis data ini 
+            menggunakan sedikit ruang penyimpanan.
 
 6. Jelaskan Modul ERP dibawah ini :
     Operasi
