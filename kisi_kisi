@@ -4,7 +4,8 @@ Kisi – Kisi  :
 1. Jelaskan ruang lingkup Perencanaan Sumber daya Perusahaan (ERP)
       Ruang Lingkup ERP
       1.Pengertian
-      - ERP adalah sebuah sistem informasi perusahaan yang dirancang untuk mengkoordinasikan semua sumber daya,informasi dan aktifitas yang diperlukan untuk proses bisnis lengkap.
+      - ERP adalah sebuah sistem informasi perusahaan yang dirancang untuk mengkoordinasikan 
+        semua sumber daya,informasi dan aktifitas yang diperlukan untuk proses bisnis lengkap.
       - Sistem ERP didasarkan pada database pada umumnya dan rancangan perangkat lunak modular.
 
       2.Tujuan dan Peranannya Dalam Organisasi
@@ -49,7 +50,8 @@ Kisi – Kisi  :
       - Customization
 
       5.Kelebihan ERP
-      - Integrasi antara area fungsional yang berbeda untuk meyakinkan komunikasi, produktifitas dan efisiensi yang tepat.
+      - Integrasi antara area fungsional yang berbeda untuk meyakinkan komunikasi, produktifitas dan
+      efisiensi yang tepat.
       - Rancangan Perekayasaan
       - Pelacakan pemesanan dari penerimaan sampai fulfillment
       - Mengatur saling ketergantungan dari proses penagihan material yang kompleks
@@ -57,8 +59,10 @@ Kisi – Kisi  :
       6.Kelemahan ERP
       - Terbatasnya kustomisasi dari perangkat lunak ERP
       - Sistem ERP sangat mahal
-      - Perekayasaan kembali proses bisnis untuk menyesuaikan dengan standar industri yang telah dideskripsikan oleh sistem ERP dapat menyebabkan hilangnya keuntungan kompetitif
-      - ERP sering terlihat terlalu sulit untuk beradaptasi dengan alur kerja dan proses bisni tertentu dalam beberapa organisasi
+      - Perekayasaan kembali proses bisnis untuk menyesuaikan dengan standar industri yang telah
+        dideskripsikan oleh sistem ERP dapat menyebabkan hilangnya keuntungan kompetitif
+      - ERP sering terlihat terlalu sulit untuk beradaptasi dengan alur kerja dan proses bisnis
+        tertentu dalam beberapa organisasi
 
 2. Apa Batasan dan perbedaan ERP dengan Tradisional, berikan contoh
 	ERP tradisional umumnya ditempatkan di server perusahaan sendiri dan dikelola oleh staf TI, atau konsultan luar. 
@@ -100,13 +104,16 @@ Kisi – Kisi  :
 
 6. Jelaskan Modul ERP dibawah ini :
     Operasi
-      Modul Operasi biasanya menangani proses- proses operasional dasar pada ERP seperti pada Dashboard, web portal, email, manufaktur, distribusi, produksi, pemasaran, dan lain- lain.
+      Modul Operasi biasanya menangani proses- proses operasional dasar pada ERP seperti pada Dashboard, web portal,
+      email, manufaktur, distribusi, produksi, pemasaran, dan lain- lain.
 
     Finansial dan Akuntansi
-      Modul finansial dan akuntansi menangani bagian finansial dan akuntansi sebuah perusahaan terkait dengan keuangan. Misalnya menangani pembayaran hutang, pajak, kredit, pembuatan laporan keuangan sampai pada pembuatan anggaran belanja perusahaan.
+      Modul finansial dan akuntansi menangani bagian finansial dan akuntansi sebuah perusahaan terkait dengan keuangan.
+      Misalnya menangani pembayaran hutang, pajak, kredit, pembuatan laporan keuangan sampai pada pembuatan anggaran belanja perusahaan.
 
     Sumber Daya Manusia
-      Modul SDM menangani bagian manajemen sumber daya manusia atau Human Resource Management (HRM). Misalnya pembuatan jadwal kerja, perekrutan pegawai, perhitungan gaji dan bonus, dan lain- lain.
+      Modul SDM menangani bagian manajemen sumber daya manusia atau Human Resource Management (HRM). Misalnya pembuatan
+      jadwal kerja, perekrutan pegawai, perhitungan gaji dan bonus, dan lain- lain.
 
 7. Bagaimana cara membangun ERP yang baik.
       • Implementasi sistem ERP tergantung pada ukuran bisnis, ruang lingkup dari perubahan dan peran serta pelanggan.
